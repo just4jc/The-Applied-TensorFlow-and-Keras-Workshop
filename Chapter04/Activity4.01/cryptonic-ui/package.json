@@ -16,7 +16,7 @@
     "lodash": "^4.17.4",
     "moment-timezone": "^0.5.14",
     "vue": "^2.4.2",
-    "vue-c3": "^1.1.1",
+    "vue-c3": "^1.2.11",
     "vue-instant": "^1.0.1",
     "vue-lodash": "^1.0.4",
     "vue-moment": "^3.1.0",
