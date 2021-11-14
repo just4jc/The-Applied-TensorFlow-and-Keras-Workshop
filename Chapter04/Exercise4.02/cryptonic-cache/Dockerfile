@@ -1,4 +1,4 @@
-FROM redis:alpine
+FROM redis:6.2.6-alpine3.14
 ENV TZ=America/New_York
 # COPY redis.conf /usr/local/etc/redis/redis.conf
 # CMD [ "redis-server", "/usr/local/etc/redis/redis.conf" ]
