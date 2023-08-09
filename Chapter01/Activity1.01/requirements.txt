@@ -22,7 +22,7 @@ google-auth==1.7.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.1.8
 graphviz==0.13.2
-grpcio==1.24.3
+grpcio==1.53.2
 h5py==2.10.0
 html5lib==1.0.1
 idna==2.8
