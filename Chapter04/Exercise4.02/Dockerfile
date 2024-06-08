@@ -3,7 +3,7 @@
 #  The image copies the complete application
 #  directory and starts a Flask server. 
 #
-FROM python:3.6
+FROM python:3.12.3
 ENV TZ=America/New_York
 
 #
