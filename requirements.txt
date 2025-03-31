@@ -22,7 +22,7 @@ google-auth==1.7.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.1.8
 graphviz==0.13.2
-grpcio==1.24.3
+grpcio==1.58.3
 h5py==2.10.0
 html5lib==1.0.1
 idna==2.8
@@ -39,7 +39,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.1
-Keras==2.2.4
+Keras==3.9.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
