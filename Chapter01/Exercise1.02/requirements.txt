@@ -63,7 +63,7 @@ prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 protobuf==3.10.0
 ptyprocess==0.6.0
-pyasn1==0.4.7
+pyasn1==0.6.2
 pyasn1-modules==0.2.7
 Pygments==2.5.2
 pyparsing==2.4.5
@@ -97,3 +97,4 @@ Werkzeug==0.16.0
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 zipp==0.6.0
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
